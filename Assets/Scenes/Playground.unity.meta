@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 7d001cacf887eb14cbf269a09e3ec3ba
-PrefabImporter:
+guid: e9017d5f96b9f09489b4b37e1d6eb914
+DefaultImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
@@ -9,6 +9,6 @@ AssetOrigin:
   serializedVersion: 1
   productId: 196526
   packageName: First Person + Third Person | Character Controllers
-  packageVersion: 2.0.1
-  assetPath: Assets/Starter Assets/Runtime/Mobile/Prefabs/UI_TouchScreenInput.prefab
-  uploadId: 998422
+  packageVersion: 2.0.2
+  assetPath: Assets/Starter Assets/Sample/ThirdPersonController/Playground.unity
+  uploadId: 1032646
